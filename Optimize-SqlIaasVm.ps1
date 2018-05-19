@@ -2546,10 +2546,10 @@ It can works also in other scenario, but please keep in mind it can drive you to
 unsure about what it does, please have a look at the code. 
 I'm not responsible for any incovenience it may causes.
 
-This script is released under MIT License, feel free to adapt it to your needs and to share it, but please keep a
+This script is released under GNU General Public License v3.0, feel free to adapt it to your needs and to share it, but please keep a
 reference to the original source.
 
-Copyright 2017 - Marco Obinu - www.omegamadlab.com
+Copyright 2018 - Marco Obinu - www.omegamadlab.com
 
 "@
 
