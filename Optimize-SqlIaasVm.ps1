@@ -2,7 +2,7 @@
 
 Copyright 2017 Marco Obinu - www.omegamadlab.com
 
-Software release under MIT License
+Software release under GNU General Public License v3.0
 
 Permission is hereby granted, free of charge, to any person obtaining a 
 copy of this software and associated documentation files (the "Software"), 
